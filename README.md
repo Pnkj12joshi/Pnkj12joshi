@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Joshi</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Front End Developer from India</h3>
 
 - Hi I'm working on **Ecommerce Website**
 
